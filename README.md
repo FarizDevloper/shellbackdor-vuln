@@ -9,3 +9,5 @@ Base64 Path Detection: Detects obfuscated paths with base64-encoded parameters.
 
 Disclaimer ⚠️
 This tools is for ethical hacking and educational purposes only. Do not use it on websites without explicit permission. Unauthorized access to systems is illegal.
+
+![devloper](https://github.com/user-attachments/assets/b15ebc07-5fb0-4466-845a-9980c1f30cae)
