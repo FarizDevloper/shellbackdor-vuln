@@ -8,4 +8,4 @@ Mass Scanning: Supports scanning multiple websites in parallel using Python’s 
 Base64 Path Detection: Detects obfuscated paths with base64-encoded parameters.
 
 Disclaimer ⚠️
-This tool is for ethical hacking and educational purposes only. Do not use it on websites without explicit permission. Unauthorized access to systems is illegal.
+This tools is for ethical hacking and educational purposes only. Do not use it on websites without explicit permission. Unauthorized access to systems is illegal.
