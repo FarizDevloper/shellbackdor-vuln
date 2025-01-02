@@ -1,6 +1,3 @@
-
-Berikut adalah contoh README.md yang keren, lengkap dengan gambar ASCII dan penjelasan singkat:
-
 PHP Shell Upload & Vulnerability Scanner 🚀
 A Python script for scanning websites to detect PHP shell upload vulnerabilities. It automates the process of finding vulnerable file upload points, uploading a PHP shell, and logging successful exploits. This tool is designed for ethical hacking and penetration testing.
 
